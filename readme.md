@@ -22,4 +22,4 @@ upgak/
 **WIP – Testing masih dalam pengerjaan.**
 
 ## Lisensi
-MIT
+MIT 2025
